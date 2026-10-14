@@ -486,3 +486,5 @@ node_modules/
 dist/
 web/test-results/
 web/playwright-report/
+datos/.cache-openfoodfacts/
+src/Sga.Api/wwwroot/

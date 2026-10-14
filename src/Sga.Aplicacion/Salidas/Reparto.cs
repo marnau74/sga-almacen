@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+
 using Sga.Aplicacion.Abstracciones;
 using Sga.Dominio.Almacen;
 using Sga.Dominio.Salidas;

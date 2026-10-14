@@ -6,6 +6,8 @@
     <Project Path="src/Sga.Infraestructura/Sga.Infraestructura.csproj" />
   </Folder>
   <Folder Name="/tests/">
+    <Project Path="tests/Sga.Api.Tests/Sga.Api.Tests.csproj" />
+    <Project Path="tests/Sga.Arquitectura.Tests/Sga.Arquitectura.Tests.csproj" />
     <Project Path="tests/Sga.Dominio.Tests/Sga.Dominio.Tests.csproj" />
     <Project Path="tests/Sga.Integracion.Tests/Sga.Integracion.Tests.csproj" />
   </Folder>

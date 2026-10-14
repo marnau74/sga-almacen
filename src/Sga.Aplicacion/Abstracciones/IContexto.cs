@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+
 using Sga.Dominio.Almacen;
 using Sga.Dominio.Catalogo;
 using Sga.Dominio.Entradas;

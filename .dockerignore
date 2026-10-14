@@ -8,3 +8,8 @@ docs/
 TestResults/
 *.md
 .env
+web/node_modules/
+web/test-results/
+web/playwright-report/
+src/Sga.Api/wwwroot/
+datos/.cache-openfoodfacts/

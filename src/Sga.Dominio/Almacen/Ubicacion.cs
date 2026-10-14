@@ -1,4 +1,5 @@
 using System.Globalization;
+
 using Sga.Dominio.Comun;
 
 namespace Sga.Dominio.Almacen;

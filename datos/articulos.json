@@ -1,0 +1,3782 @@
+[
+ {
+  "ean": "8410297012150",
+  "nombre": "Leche Semi desnatada",
+  "marca": "CORPORACION ALIMENTARIA PEÑASANTA.S.A.",
+  "formato": "1 l",
+  "categoria": "Leche",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000106780",
+  "nombre": "Leche desnatada Proteínas y Calcio",
+  "marca": "MERCADONA",
+  "formato": "1 L",
+  "categoria": "Leche",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3533636760002",
+  "nombre": "Lait sans Lactose",
+  "marca": "Candia",
+  "formato": "1L",
+  "categoria": "Leche",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8411700011302",
+  "nombre": "Leche de nueces omega 3 28/3",
+  "marca": "LACTALIS PULEVA S.L.U.",
+  "formato": "1 l",
+  "categoria": "Leche",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000103826",
+  "nombre": "Leche semidesnatada",
+  "marca": "MERCADONA",
+  "formato": "1 l",
+  "categoria": "Leche",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410297112041",
+  "nombre": "Leche entera",
+  "marca": "CORPORACION ALIMENTARIA PEÑASANTA.S.A.",
+  "formato": "1 L",
+  "categoria": "Leche",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410297111150",
+  "nombre": "Leche semidesnatada",
+  "marca": "CORPORACION ALIMENTARIA PEÑASANTA.S.A.",
+  "formato": "1,5 L",
+  "categoria": "Leche",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410285127323",
+  "nombre": "lait oresident",
+  "marca": "President",
+  "formato": "1 l",
+  "categoria": "Leche",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410128010096",
+  "nombre": "Leche entera",
+  "marca": "CALIDAD PASCUAL S.A.",
+  "formato": "1 l",
+  "categoria": "Leche",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8002580004166",
+  "nombre": "Zymil",
+  "marca": "Zymil",
+  "formato": "1 L",
+  "categoria": "Leche",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000103802",
+  "nombre": "Leche entera",
+  "marca": "MERCADONA",
+  "formato": "1 l",
+  "categoria": "Leche",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000109330",
+  "nombre": "Leche fresca entera",
+  "marca": "MERCADONA",
+  "formato": "1 l",
+  "categoria": "Leche",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000108128",
+  "nombre": "Leche de cabra semidesnatada",
+  "marca": "MERCADONA",
+  "formato": "1 kilo",
+  "categoria": "Leche",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000105745",
+  "nombre": "Leche Entera",
+  "marca": "MERCADONA",
+  "formato": "1 l",
+  "categoria": "Leche",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410297010200",
+  "nombre": "Leche entera de vaca",
+  "marca": "CORPORACION ALIMENTARIA PEÑASANTA.S.A.",
+  "formato": "1,5 l",
+  "categoria": "Leche",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410500012861",
+  "nombre": "natural original",
+  "marca": "DANONE S.A.",
+  "formato": "1188 ml (12 x 99 ml)",
+  "categoria": "Leche",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480017006080",
+  "nombre": "Leche entera",
+  "marca": "DIA RETAIL ESPAÑA S.A.U.",
+  "formato": "1L",
+  "categoria": "Leche",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000105769",
+  "nombre": "Leche Semidesnatada",
+  "marca": "MERCADONA",
+  "formato": "1 l",
+  "categoria": "Leche",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8411700026139",
+  "nombre": "Leche entera",
+  "marca": "LACTALIS PULEVA S.L.U.",
+  "formato": "1l",
+  "categoria": "Leche",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410297115318",
+  "nombre": "Leche Sin Lactosa semi Asturiana",
+  "marca": "CORPORACION ALIMENTARIA PEÑASANTA.S.A.",
+  "formato": "1 l",
+  "categoria": "Leche",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3245413563040",
+  "nombre": "Leche desnatada en polvo",
+  "marca": "Carrefour",
+  "formato": "750 g",
+  "categoria": "Leche",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8411700011111",
+  "nombre": "Puleva omega 3",
+  "marca": "LACTALIS PULEVA S.L.U.",
+  "formato": "1 l",
+  "categoria": "Leche",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000105622",
+  "nombre": "Leche entera",
+  "marca": "MERCADONA",
+  "formato": "1 l",
+  "categoria": "Leche",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "4056489320203",
+  "nombre": "Leche Fresca Pastoreo Entera",
+  "marca": "LIDL",
+  "formato": "1",
+  "categoria": "Leche",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000108883",
+  "nombre": "Leche enriquecida con calcio 100% natural",
+  "marca": "Hacendado",
+  "formato": "1litro",
+  "categoria": "Leche",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8402001019067",
+  "nombre": "Leche en polvo desnatada",
+  "marca": "MERCADONA",
+  "formato": "700g",
+  "categoria": "Leche",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480017005045",
+  "nombre": "Leche semidesnatada",
+  "marca": "DIA RETAIL ESPAÑA S.A.U.",
+  "formato": "1 l",
+  "categoria": "Leche",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410297012105",
+  "nombre": "Leche desnatada",
+  "marca": "CORPORACION ALIMENTARIA PEÑASANTA.S.A.",
+  "formato": "1 l",
+  "categoria": "Leche",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000107220",
+  "nombre": "Leche semidesnatada sin lactosa",
+  "marca": "MERCADONA",
+  "formato": "1 l",
+  "categoria": "Leche",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000105646",
+  "nombre": "Leche semidesnatada",
+  "marca": "MERCADONA",
+  "formato": "1 l",
+  "categoria": "Leche",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "6111032002208",
+  "nombre": "Activia Céréales",
+  "marca": "Danone",
+  "formato": "110g",
+  "categoria": "Yogures",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3033490004521",
+  "nombre": "Yogur natural",
+  "marca": "Danone",
+  "formato": "0.5 kg",
+  "categoria": "Yogures",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000213587",
+  "nombre": "Griego Ligero Natural",
+  "marca": "MERCADONA",
+  "formato": "1 kg",
+  "categoria": "Yogures",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000205599",
+  "nombre": "Yogur natural al estilo griego",
+  "marca": "MERCADONA",
+  "formato": "750 g (6x125g)",
+  "categoria": "Yogures",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000205124",
+  "nombre": "Yogur estilo griego natural",
+  "marca": "MERCADONA",
+  "formato": "1 kg",
+  "categoria": "Yogures",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8402001012051",
+  "nombre": "Yogur griego ligero",
+  "marca": "MERCADONA",
+  "formato": "125 g",
+  "categoria": "Yogures",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "4056489857396",
+  "nombre": "High Protein Frutas con Trozos",
+  "marca": "LIDL",
+  "formato": "1000 g (8 x 125 g)",
+  "categoria": "Yogures",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000223135",
+  "nombre": "Yogur natural",
+  "marca": "MERCADONA",
+  "formato": "750 g (6 x 125 g)",
+  "categoria": "Yogures",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3033490004743",
+  "nombre": "Skyr",
+  "marca": "DANONE PRODUITS FRAIS FRANCE",
+  "formato": "140 g",
+  "categoria": "Yogures",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "0096619483556",
+  "nombre": "organic GREEK YOGURT plain",
+  "marca": "KIRKLAND Signature",
+  "formato": "1.36 kg (48oz)",
+  "categoria": "Yogures",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3023290077719",
+  "nombre": "Yaos",
+  "marca": "Nestlé",
+  "formato": "850g",
+  "categoria": "Yogures",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3033491350863",
+  "nombre": "Activia Coco",
+  "marca": "DANONE PRODUITS FRAIS FRANCE",
+  "formato": "0.5 kg",
+  "categoria": "Yogures",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3033491213205",
+  "nombre": "Actimel 100 g x 12 original",
+  "marca": "Actimel",
+  "formato": "1.2 kg",
+  "categoria": "Yogures",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000212566",
+  "nombre": "Yogur natural proteínas 0%",
+  "marca": "MERCADONA",
+  "formato": "500 g",
+  "categoria": "Yogures",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "4056489258346",
+  "nombre": "High Protein Blueberry - Milbona",
+  "marca": "LIDL",
+  "formato": "200 g",
+  "categoria": "Yogures",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "4056489216216",
+  "nombre": "High Protein Quark Vainilla",
+  "marca": "LIDL",
+  "formato": "200 gram",
+  "categoria": "Yogures",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "4056489258353",
+  "nombre": "Raspberry-Pomegranate Milk Product",
+  "marca": "LIDL",
+  "formato": "200 gram",
+  "categoria": "Yogures",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3560071016944",
+  "nombre": "Yogur natural",
+  "marca": "Carrefour",
+  "formato": "500 g (4 x 125 g)",
+  "categoria": "Yogures",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "4056489216230",
+  "nombre": "High protein fraise",
+  "marca": "Milbona",
+  "formato": "200 gram",
+  "categoria": "Yogures",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "4056489216223",
+  "nombre": "High Protein Quark Dessert Raspberry",
+  "marca": "LIDL",
+  "formato": "200 gram",
+  "categoria": "Yogures",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3033491460869",
+  "nombre": "Actimel original nature",
+  "marca": "Danone",
+  "formato": "6 x 100 g",
+  "categoria": "Yogures",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3033491273827",
+  "nombre": "Danone fromage blanc 3,2% de mg nature 100 g x 8",
+  "marca": "Danone",
+  "formato": "0.8 kg",
+  "categoria": "Yogures",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000202871",
+  "nombre": "Yogur Natural de Cabra",
+  "marca": "MERCADONA",
+  "formato": "500 g (4 x 125 g)",
+  "categoria": "Yogures",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000202109",
+  "nombre": "Yogur natural 0%",
+  "marca": "MERCADONA",
+  "formato": "6, 750 g",
+  "categoria": "Yogures",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "4056489467953",
+  "nombre": "Strawberry Milk Product",
+  "marca": "Milbona",
+  "formato": "200g",
+  "categoria": "Yogures",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000209962",
+  "nombre": "Yogur Proteínas Fresa 0%",
+  "marca": "MERCADONA",
+  "formato": "480 g",
+  "categoria": "Yogures",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000211514",
+  "nombre": "Postre lácteo con puré mango y maracuyá +Proteínas",
+  "marca": "Hacendado",
+  "formato": "4 x 120 g",
+  "categoria": "Yogures",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8402001012068",
+  "nombre": "Yogur Griego Azúcar de Caña",
+  "marca": "MERCADONA",
+  "formato": "125gramls",
+  "categoria": "Yogures",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410500001360",
+  "nombre": "Yogur natural",
+  "marca": "DANONE S.A.",
+  "formato": "960 g",
+  "categoria": "Yogures",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3033490545185",
+  "nombre": "Activia bifidus nature 0% de mg 125 g x 8",
+  "marca": "Activia",
+  "formato": "1 kg",
+  "categoria": "Yogures",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "7622210103314",
+  "nombre": "Queso cremoso",
+  "marca": "Mondelez Schweiz GmbH",
+  "formato": "200 g",
+  "categoria": "Quesos",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3161711001971",
+  "nombre": "Caprice Des Dieux",
+  "marca": "BG SAS",
+  "formato": "300g",
+  "categoria": "Quesos",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "7622300441937",
+  "nombre": "Queso crema Philadelphia original",
+  "marca": "Mondelez Schweiz GmbH",
+  "formato": "150 g",
+  "categoria": "Quesos",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000512031",
+  "nombre": "Queso crema suave",
+  "marca": "MERCADONA",
+  "formato": "300 g",
+  "categoria": "Quesos",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000609632",
+  "nombre": "Queso fresco cottage",
+  "marca": "MERCADONA",
+  "formato": "200 g",
+  "categoria": "Quesos",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3560070157198",
+  "nombre": "Queso rallado parmesano",
+  "marca": "CARREFOUR FRANCE",
+  "formato": "100 g",
+  "categoria": "Quesos",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000512239",
+  "nombre": "Queso untar light",
+  "marca": "MERCADONA",
+  "formato": "300g",
+  "categoria": "Quesos",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8000430138719",
+  "nombre": "mozzarella",
+  "marca": "Egidio Galbani Srl",
+  "formato": "0.125 kg",
+  "categoria": "Quesos",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3270190207696",
+  "nombre": "Emmental rallado",
+  "marca": "CARREFOUR FRANCE",
+  "formato": "200 g",
+  "categoria": "Quesos",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000511102",
+  "nombre": "Mozzarella Pizza-Roma",
+  "marca": "MERCADONA",
+  "formato": "200g",
+  "categoria": "Quesos",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000505460",
+  "nombre": "Havarti light",
+  "marca": "MERCADONA",
+  "formato": "12 lonchas",
+  "categoria": "Quesos",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000511973",
+  "nombre": "Queso feta",
+  "marca": "MERCADONA",
+  "formato": "150 g escurrido, 370 g neto",
+  "categoria": "Quesos",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000505453",
+  "nombre": "Havarti",
+  "marca": "MERCADONA",
+  "formato": "300g",
+  "categoria": "Quesos",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000510716",
+  "nombre": "Queso fresco batido desnatado",
+  "marca": "MERCADONA",
+  "formato": "500 g",
+  "categoria": "Quesos",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3560070149278",
+  "nombre": "Feta",
+  "marca": "CARREFOUR FRANCE",
+  "formato": "200 g",
+  "categoria": "Quesos",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3760056260069",
+  "nombre": "Grana Padano",
+  "marca": "COMPAGNIE ITALIENNE DE PRODUITS FRAIS CIPF CODIPA",
+  "formato": "100 g",
+  "categoria": "Quesos",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3560071455804",
+  "nombre": "Grana Padano",
+  "marca": "CARREFOUR FRANCE",
+  "formato": "100 g",
+  "categoria": "Quesos",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "4056489192923",
+  "nombre": "Grana Padano DOP rallado",
+  "marca": "LIDL",
+  "formato": "150 g",
+  "categoria": "Quesos",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "4056489163534",
+  "nombre": "Burrata",
+  "marca": "LIDL",
+  "formato": "125 g",
+  "categoria": "Quesos",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8000430135268",
+  "nombre": "Mozzarella maxi",
+  "marca": "Egidio Galbani Srl",
+  "formato": "0.25 kg",
+  "categoria": "Quesos",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3560070060252",
+  "nombre": "Mozzarella",
+  "marca": "CARREFOUR FRANCE",
+  "formato": "225 g",
+  "categoria": "Quesos",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000511942",
+  "nombre": "Quesco fresco cabra",
+  "marca": "MERCADONA",
+  "formato": "250g",
+  "categoria": "Quesos",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8713734033825",
+  "nombre": "Queso Gouda",
+  "marca": "Koninklijke A-ware Food Group B.V.",
+  "formato": "300 g",
+  "categoria": "Quesos",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000512284",
+  "nombre": "Ricotta",
+  "marca": "MERCADONA",
+  "formato": "200 g",
+  "categoria": "Quesos",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000511911",
+  "nombre": "Queso fresco vaca",
+  "marca": "Hacendado",
+  "formato": "250 g",
+  "categoria": "Quesos",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3560070930036",
+  "nombre": "Comté",
+  "marca": "Extra",
+  "formato": "250 g",
+  "categoria": "Quesos",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000510501",
+  "nombre": "Mozzarella",
+  "marca": "Hacendado",
+  "formato": "125 g (250 g)",
+  "categoria": "Quesos",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8000430137866",
+  "nombre": "Mozzarella Cucina",
+  "marca": "Egidio Galbani Srl",
+  "formato": "150 g",
+  "categoria": "Quesos",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3307907100084",
+  "nombre": "L'Original",
+  "marca": "Fromagerie Guilloteau",
+  "formato": "200 g",
+  "categoria": "Quesos",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "7622210103505",
+  "nombre": "Queso untar light formato familiar",
+  "marca": "Mondelez Schweiz GmbH",
+  "formato": "270 g",
+  "categoria": "Quesos",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000047403",
+  "nombre": "Aceite de oliva virgen extra",
+  "marca": "Hacendado",
+  "formato": "1 l",
+  "categoria": "Aceite de oliva",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410660049769",
+  "nombre": "Extra Virgin Olive Oil",
+  "marca": "La Española",
+  "formato": "1 litre",
+  "categoria": "Aceite de oliva",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000047069",
+  "nombre": "Aceite de oliva virgen extra",
+  "marca": "Hacendado",
+  "formato": "750 ml",
+  "categoria": "Aceite de oliva",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "4056489102977",
+  "nombre": "Spanish extra virgin olive oil",
+  "marca": "Primadonna",
+  "formato": "750ml",
+  "categoria": "Aceite de oliva",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3596710375561",
+  "nombre": "Huile d'olive vierge extra Assemblage d'huiles d'olive origine UE et non UE",
+  "marca": "Auchan",
+  "formato": "0.75 l",
+  "categoria": "Aceite de oliva",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410010260042",
+  "nombre": "Aceite de oliva virgen extra",
+  "marca": "Carbonell",
+  "formato": "1 l",
+  "categoria": "Aceite de oliva",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000047182",
+  "nombre": "Aceite de Oliva Virgen Extra Spray",
+  "marca": "Hacendado",
+  "formato": "200 ml",
+  "categoria": "Aceite de oliva",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410010000181",
+  "nombre": "Aceite de oliva original 0.4",
+  "marca": "Carbonell",
+  "formato": "1L",
+  "categoria": "Aceite de oliva",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8437009466476",
+  "nombre": "Aceite de oliva Picual",
+  "marca": "Casa Juncal",
+  "formato": "500 ml",
+  "categoria": "Aceite de oliva",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000047175",
+  "nombre": "Aceite de oliva virgen extra",
+  "marca": "Hacendado",
+  "formato": "3l",
+  "categoria": "Aceite de oliva",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8411190101392",
+  "nombre": "Aceite de oliva virgen extra",
+  "marca": "Coosur",
+  "formato": "1 l",
+  "categoria": "Aceite de oliva",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8422767123167",
+  "nombre": "oli doliva verge",
+  "marca": "hojiblanca",
+  "formato": "1L",
+  "categoria": "Aceite de oliva",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000042408",
+  "nombre": "Aceite de oliva",
+  "marca": "Hacendado",
+  "formato": "Botella 1 L",
+  "categoria": "Aceite de oliva",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000046406",
+  "nombre": "Aceite de oliva",
+  "marca": "Hacendado",
+  "formato": "1 l",
+  "categoria": "Aceite de oliva",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410010006206",
+  "nombre": "Aceite de oliva virgen extra gran selección",
+  "marca": "Carbonell",
+  "formato": "750 ml",
+  "categoria": "Aceite de oliva",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000047496",
+  "nombre": "Aceite de Oliva Virgen",
+  "marca": "Hacendado",
+  "formato": "1l",
+  "categoria": "Aceite de oliva",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410179100036",
+  "nombre": "Aceite de Oliva Extra Virgen Original",
+  "marca": "Borges",
+  "formato": "500 ml",
+  "categoria": "Aceite de oliva",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000046413",
+  "nombre": "Aceite de oliva",
+  "marca": "Hacendado",
+  "formato": "5 l",
+  "categoria": "Aceite de oliva",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8002210124905",
+  "nombre": "Extra virgin olive oil",
+  "marca": "Filippo Berio",
+  "formato": "750 ml",
+  "categoria": "Aceite de oliva",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "4056489043478",
+  "nombre": "Aceite de oliva virgen extra - olivar tradicional",
+  "marca": "Lidl / Olisone",
+  "formato": "750 ml",
+  "categoria": "Aceite de oliva",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410010260929",
+  "nombre": "Aceite de oliva sabor 1º",
+  "marca": "Carbonell",
+  "formato": "1 l",
+  "categoria": "Aceite de oliva",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000047113",
+  "nombre": "Aceite de oliva virgen",
+  "marca": "Hacendado",
+  "formato": "3 l",
+  "categoria": "Aceite de oliva",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480017052025",
+  "nombre": "Aceite de oliva virgen extra",
+  "marca": "Dia",
+  "formato": "750 ml",
+  "categoria": "Aceite de oliva",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8432580121011",
+  "nombre": "Aceite de oliva Sumum",
+  "marca": "La Másia",
+  "formato": "1  l",
+  "categoria": "Aceite de oliva",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8411190101415",
+  "nombre": "Aceite de oliva picual",
+  "marca": "Coosur",
+  "formato": "1 l",
+  "categoria": "Aceite de oliva",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8431876065817",
+  "nombre": "Aceite de oliva Virgen Extra",
+  "marca": "Carrefour",
+  "formato": "5 L",
+  "categoria": "Aceite de oliva",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410660001026",
+  "nombre": "Aceite de oliva virgen extra",
+  "marca": "La Española",
+  "formato": "750ml",
+  "categoria": "Aceite de oliva",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410010262343",
+  "nombre": "Aceite de oliva virgen",
+  "marca": "Carbonell",
+  "formato": "1 l",
+  "categoria": "Aceite de oliva",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410010004400",
+  "nombre": "Aceite de oliva virgen extra garrafa",
+  "marca": "Carbonell",
+  "formato": "5 l",
+  "categoria": "Aceite de oliva",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480010008319",
+  "nombre": "Aceite de oliva virgen extra",
+  "marca": "Eroski",
+  "formato": "Eroski",
+  "categoria": "Aceite de oliva",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8076809529433",
+  "nombre": "Macarrones integrales Penne Rigate",
+  "marca": "Barilla",
+  "formato": "500g",
+  "categoria": "Pasta",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8076802085738",
+  "nombre": "Rigatoni Penne Rigate Nº73",
+  "marca": "Barilla",
+  "formato": "500 g",
+  "categoria": "Pasta",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8076800376999",
+  "nombre": "Lasagne aux oeufs",
+  "marca": "Barilla",
+  "formato": "500 g",
+  "categoria": "Pasta",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8076809529419",
+  "nombre": "Spaghetti integral",
+  "marca": "Barilla",
+  "formato": "500 g",
+  "categoria": "Pasta",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "4056489009191",
+  "nombre": "Tortelloni Ricotta et épinards",
+  "marca": "LIDL",
+  "formato": "250g",
+  "categoria": "Pasta",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8076808150072",
+  "nombre": "Espagueti Spaghettoni N.7",
+  "marca": "BARILLA",
+  "formato": "500 g",
+  "categoria": "Pasta",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8032804430822",
+  "nombre": "Fusilli de lentejas rojas",
+  "marca": "Andriani SpA",
+  "formato": "250 g",
+  "categoria": "Pasta",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3560071082727",
+  "nombre": "Penne rigate semi-complets",
+  "marca": "Carrefour BIO",
+  "formato": "500 g",
+  "categoria": "Pasta",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "4056489617822",
+  "nombre": "Mie Noodles",
+  "marca": "LIDL",
+  "formato": "250 g",
+  "categoria": "Pasta",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "4056489009184",
+  "nombre": "Tortelloni Pesto Basilico",
+  "marca": "Chef Select",
+  "formato": "250g",
+  "categoria": "Pasta",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3245412654305",
+  "nombre": "Noodles con huevo",
+  "marca": "Carrefour",
+  "formato": "250 g",
+  "categoria": "Pasta",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3270190156222",
+  "nombre": "Spaghetti semi-complets",
+  "marca": "CARREFOUR FRANCE",
+  "formato": "500 g",
+  "categoria": "Pasta",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8402001010194",
+  "nombre": "Penne Rigate Integral",
+  "marca": "MERCADONA",
+  "formato": "500 g",
+  "categoria": "Pasta",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "4056489376194",
+  "nombre": "Konjac Noodles",
+  "marca": "Vitasia",
+  "formato": "270g",
+  "categoria": "Pasta",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000144232",
+  "nombre": "Galletas tradicionales",
+  "marca": "MERCADONA",
+  "formato": "600 g",
+  "categoria": "Pasta",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8076809519977",
+  "nombre": "La Collezione Orecchiette N.56",
+  "marca": "Barilla",
+  "formato": "500g",
+  "categoria": "Pasta",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8402001011924",
+  "nombre": "Noodles de arroz",
+  "marca": "MERCADONA",
+  "formato": "200g",
+  "categoria": "Pasta",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3560071251857",
+  "nombre": "COQUILLETTES con trigo integral",
+  "marca": "Carrefour BIO",
+  "formato": "400 g",
+  "categoria": "Pasta",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410069015051",
+  "nombre": "Placas para Lasaña Extrafinas",
+  "marca": "COMERCIAL GALLO S.A.U.",
+  "formato": "224 g",
+  "categoria": "Pasta",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000063441",
+  "nombre": "Hélices Vegetales",
+  "marca": "Hacendado",
+  "formato": "1 kg",
+  "categoria": "Pasta",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3560070510047",
+  "nombre": "Penne Rigate",
+  "marca": "Carrefour BIO",
+  "formato": "500 g",
+  "categoria": "Pasta",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8004690612804",
+  "nombre": "Fusilli nº 28 integral",
+  "marca": "La Molisana SpA",
+  "formato": "500 gram",
+  "categoria": "Pasta",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3560071251864",
+  "nombre": "FUSILLI con trigo integral",
+  "marca": "Carrefour BIO",
+  "formato": "400 g",
+  "categoria": "Pasta",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000061430",
+  "nombre": "Ricotta y espinacas",
+  "marca": "MERCADONA",
+  "formato": "250 g",
+  "categoria": "Pasta",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3270190127833",
+  "nombre": "Spaghetti",
+  "marca": "CARREFOUR FRANCE",
+  "formato": "500 g",
+  "categoria": "Pasta",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3245412738289",
+  "nombre": "Lasaña",
+  "marca": "Carrefour",
+  "formato": "500 g",
+  "categoria": "Pasta",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8402001010200",
+  "nombre": "Spaghetti integral",
+  "marca": "Hacendado",
+  "formato": "500g",
+  "categoria": "Pasta",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "4056489181293",
+  "nombre": "Rice Noodles",
+  "marca": "LIDL",
+  "formato": "200.0 g",
+  "categoria": "Pasta",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3560071082710",
+  "nombre": "Coquillettes",
+  "marca": "CARREFOUR FRANCE",
+  "formato": "500 g",
+  "categoria": "Pasta",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000063052",
+  "nombre": "Pajaritas con vegetales",
+  "marca": "Hacendado",
+  "formato": "500 g",
+  "categoria": "Pasta",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410830001016",
+  "nombre": "Arroz",
+  "marca": "Sos",
+  "formato": "1 kg",
+  "categoria": "Arroz",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3560070837984",
+  "nombre": "Basmati",
+  "marca": "Carrefour",
+  "formato": "1 kg",
+  "categoria": "Arroz",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410184040747",
+  "nombre": "Sabroz arroz integral",
+  "marca": "Brillante",
+  "formato": "250g",
+  "categoria": "Arroz",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3560070393619",
+  "nombre": "Arroz Basmati",
+  "marca": "Carrefour Bio",
+  "formato": "500 g",
+  "categoria": "Arroz",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000050144",
+  "nombre": "Arroz integral redondo",
+  "marca": "Hacendado",
+  "formato": "1 kg",
+  "categoria": "Arroz",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410184800150",
+  "nombre": "Arroz integral",
+  "marca": "Brillante",
+  "formato": "250 g",
+  "categoria": "Arroz",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000050441",
+  "nombre": "Arroz redondo",
+  "marca": "Hacendado",
+  "formato": "1 kg",
+  "categoria": "Arroz",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410184040730",
+  "nombre": "Arroz Basmati",
+  "marca": "Sabroz",
+  "formato": "250g",
+  "categoria": "Arroz",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000050021",
+  "nombre": "Arroz basmati",
+  "marca": "Hacendado",
+  "formato": "1 kg",
+  "categoria": "Arroz",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410184077118",
+  "nombre": "Arroz calidad de oro",
+  "marca": "Brillante",
+  "formato": "1kg",
+  "categoria": "Arroz",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3560070837052",
+  "nombre": "Basmati",
+  "marca": "Carrefour",
+  "formato": "500 g",
+  "categoria": "Arroz",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000050632",
+  "nombre": "Arroz largo",
+  "marca": "Hacendado",
+  "formato": "1 kg",
+  "categoria": "Arroz",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410184800068",
+  "nombre": "Arroz basmati",
+  "marca": "Brillante",
+  "formato": "2X125g",
+  "categoria": "Arroz",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000050205",
+  "nombre": "Arroz vaporizado",
+  "marca": "Hacendado",
+  "formato": "1 kg",
+  "categoria": "Arroz",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410830001214",
+  "nombre": "Arroz integral",
+  "marca": "Sos",
+  "formato": "1 Kg",
+  "categoria": "Arroz",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8001420009118",
+  "nombre": "Risotto Traditional",
+  "marca": "gallo",
+  "formato": "500 g",
+  "categoria": "Arroz",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "5011157888163",
+  "nombre": "Tilda Genuine goodness basmati rice Lime & coriander",
+  "marca": "Tilda",
+  "formato": "250g",
+  "categoria": "Arroz",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "5010034013674",
+  "nombre": "Bens Express Rice Long Grain 220g",
+  "marca": "Ben's",
+  "formato": "220g",
+  "categoria": "Arroz",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410184013086",
+  "nombre": "Arroz redondo tradicional",
+  "marca": "Brillante",
+  "formato": "250 g (2 x 125 g)",
+  "categoria": "Arroz",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410169010147",
+  "nombre": "Arroz Nomen",
+  "marca": "Nomen",
+  "formato": "1 kg",
+  "categoria": "Arroz",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3560071272555",
+  "nombre": "Arroz BASMATI",
+  "marca": "Carrefour Bio",
+  "formato": "1 kg",
+  "categoria": "Arroz",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3560070393589",
+  "nombre": "Arroz thaï",
+  "marca": "Carrefour Bio",
+  "formato": "500 g",
+  "categoria": "Arroz",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3245412435256",
+  "nombre": "Basmati",
+  "marca": "Carrefour",
+  "formato": "500 g",
+  "categoria": "Arroz",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410184040723",
+  "nombre": "Sabroz arroz blanco cocido",
+  "marca": "Brillante",
+  "formato": "250g",
+  "categoria": "Arroz",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410084041110",
+  "nombre": "Arroz redondo",
+  "marca": "La Fallera",
+  "formato": "1kg",
+  "categoria": "Arroz",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3270190124153",
+  "nombre": "Thaï",
+  "marca": "Carrefour",
+  "formato": "1 kg",
+  "categoria": "Arroz",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3560071005054",
+  "nombre": "Arroz negro",
+  "marca": "Carrefour",
+  "formato": "500 g",
+  "categoria": "Arroz",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410184016520",
+  "nombre": "Arroz redondo sabroz",
+  "marca": "Brillante",
+  "formato": "1 kg",
+  "categoria": "Arroz",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "4056489043737",
+  "nombre": "Arroz redondo",
+  "marca": "Campo Largo",
+  "formato": "1 kg",
+  "categoria": "Arroz",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "0748404287947",
+  "nombre": "Organic Quinoa & Brown Rice with Garlic Flavour",
+  "marca": "Seeds of change",
+  "formato": "2",
+  "categoria": "Arroz",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000180186",
+  "nombre": "Atún claro al natural",
+  "marca": "Hacendado",
+  "formato": "6 x 80g",
+  "categoria": "Conservas de atún",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000180551",
+  "nombre": "Atún Claro en Aceite de Girasol",
+  "marca": "Hacendado",
+  "formato": "480 g (360 g escurrido)",
+  "categoria": "Conservas de atún",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "4056489257318",
+  "nombre": "Bonito del norte",
+  "marca": "Nixe",
+  "formato": "415 g",
+  "categoria": "Conservas de atún",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8004030022010",
+  "nombre": "Insalatissime Mais e Tonno",
+  "marca": "Rio Mare",
+  "formato": "160 g",
+  "categoria": "Conservas de atún",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3596710091935",
+  "nombre": "Thon Albacore en tranches au naturel",
+  "marca": "Auchan",
+  "formato": "0.14 kg",
+  "categoria": "Conservas de atún",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3560071175665",
+  "nombre": "Atún claro en aceite de oliva",
+  "marca": "Carrefour",
+  "formato": "560g",
+  "categoria": "Conservas de atún",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410111000707",
+  "nombre": "Atun C / Tomate Isabel",
+  "marca": "Isabel",
+  "formato": "52g",
+  "categoria": "Conservas de atún",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000180865",
+  "nombre": "Atún en aceite de girasol",
+  "marca": "Hacendado",
+  "formato": "900 g",
+  "categoria": "Conservas de atún",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000180377",
+  "nombre": "Atún en salsa de tomate",
+  "marca": "Hacendado",
+  "formato": "3 x 80 g",
+  "categoria": "Conservas de atún",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000180087",
+  "nombre": "Atun claro en aceite de oliva bajo en sal",
+  "marca": "HACENDADO",
+  "formato": "240 g (3 x 80 g)",
+  "categoria": "Conservas de atún",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3560071085872",
+  "nombre": "Atún Claro al natural",
+  "marca": "Carrefour",
+  "formato": "336g",
+  "categoria": "Conservas de atún",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "4056489664000",
+  "nombre": "Atún",
+  "marca": "Nixe",
+  "formato": "6 x 70 g",
+  "categoria": "Conservas de atún",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000168122",
+  "nombre": "Bonito del norte",
+  "marca": "Hacendado",
+  "formato": "3 x 80 g",
+  "categoria": "Conservas de atún",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000180308",
+  "nombre": "Atún en aceite de oliva",
+  "marca": "Hacendado",
+  "formato": "900 g",
+  "categoria": "Conservas de atún",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000180315",
+  "nombre": "Atún claro en escabeche blanco",
+  "marca": "Hacendado",
+  "formato": "6 x 80g",
+  "categoria": "Conservas de atún",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8411320234006",
+  "nombre": "Bonito del norte en aceite de oliva",
+  "marca": "Ortiz",
+  "formato": "112 g",
+  "categoria": "Conservas de atún",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000180544",
+  "nombre": "Atún Claro Aceite Oliva",
+  "marca": "Hacendado",
+  "formato": "100 g",
+  "categoria": "Conservas de atún",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000181169",
+  "nombre": "Bonito Del Norte Aceite Oliva",
+  "marca": "Hacendado",
+  "formato": "111 g",
+  "categoria": "Conservas de atún",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480017224460",
+  "nombre": "Atún claro al natural",
+  "marca": "dia",
+  "formato": "360 g",
+  "categoria": "Conservas de atún",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3560071084202",
+  "nombre": "Atún",
+  "marca": "Carrefour",
+  "formato": "6 x 52 g",
+  "categoria": "Conservas de atún",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480010073034",
+  "nombre": "Atun claro en aceite de oliva",
+  "marca": "Eroski",
+  "formato": "480 g",
+  "categoria": "Conservas de atún",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "4056489156727",
+  "nombre": "Atún Claro en aceite de OLIVA",
+  "marca": "Nixe",
+  "formato": "6 x 70 g",
+  "categoria": "Conservas de atún",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "7501045403144",
+  "nombre": "Dolores atún",
+  "marca": "Dolores",
+  "formato": "100 g",
+  "categoria": "Conservas de atún",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410090051219",
+  "nombre": "Atún claro en aceite de oliva",
+  "marca": "Calvo",
+  "formato": "195 g",
+  "categoria": "Conservas de atún",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8431876069556",
+  "nombre": "Atún Claro en Aceite de Oliva",
+  "marca": "Carrefour",
+  "formato": "156 g (3 x 52 g)",
+  "categoria": "Conservas de atún",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8414807514844",
+  "nombre": "Atún claro en aceite de oliva",
+  "marca": "Consum",
+  "formato": "420g",
+  "categoria": "Conservas de atún",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000180117",
+  "nombre": "Ventresca de atún claro en aceite de oliva",
+  "marca": "Hacendado",
+  "formato": "111 g (78 g)",
+  "categoria": "Conservas de atún",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410090051295",
+  "nombre": "Atún claro en aceite de girasol",
+  "marca": "Calvo",
+  "formato": "390g",
+  "categoria": "Conservas de atún",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "4056489262282",
+  "nombre": "Atún en aceite de girasol",
+  "marca": "Nixe",
+  "formato": "3 x 70 g",
+  "categoria": "Conservas de atún",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480017269911",
+  "nombre": "Atún claro oliva",
+  "marca": "Dia",
+  "formato": "240 g",
+  "categoria": "Conservas de atún",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3168930010265",
+  "nombre": "Cruesli, pepitas con mezcla de frutos secos",
+  "marca": "PEPSICO FRANCE",
+  "formato": "450 g",
+  "categoria": "Cereales",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3229820019307",
+  "nombre": "Flocons d'avoine",
+  "marca": "BJORG ET CIE",
+  "formato": "500 g",
+  "categoria": "Cereales",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3229820129488",
+  "nombre": "Muesli de uva, higo y albaricoque",
+  "marca": "Bjorg",
+  "formato": "375 g",
+  "categoria": "Cereales",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "5010477348678",
+  "nombre": "Muesli especial 30% frutas y frutos secos",
+  "marca": "The Jordans & Ryvita Company Limited - A Division of ABF Grain Products Limited",
+  "formato": "750 g",
+  "categoria": "Cereales",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3229820782560",
+  "nombre": "Muesli Superfruits",
+  "marca": "Bjorg",
+  "formato": "375 g",
+  "categoria": "Cereales",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3229820769165",
+  "nombre": "Muesli de avena con chocolate orgánico",
+  "marca": "Bjorg",
+  "formato": "375 g",
+  "categoria": "Cereales",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3159470000120",
+  "nombre": "Corn Flakes",
+  "marca": "KELLOGG S PRODUITS ALIMENT SAS",
+  "formato": "500 g",
+  "categoria": "Cereales",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3168930010906",
+  "nombre": "Cruesli chocolate negro",
+  "marca": "PEPSICO FRANCE",
+  "formato": "450 g",
+  "categoria": "Cereales",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3168930009078",
+  "nombre": "Copos de avena integral",
+  "marca": "PEPSICO FRANCE",
+  "formato": "550 g",
+  "categoria": "Cereales",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "5010477348630",
+  "nombre": "Muesli orgánico 36% frutas, nueces y semillas",
+  "marca": "The Jordans & Ryvita Company Limited - A Division of ABF Grain Products Limited",
+  "formato": "500 g",
+  "categoria": "Cereales",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3168930009795",
+  "nombre": "Muesli crujiente con nueces pecanas y nueces de Brasil",
+  "marca": "PEPSICO FRANCE",
+  "formato": "500 g",
+  "categoria": "Cereales",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "4008713713411",
+  "nombre": "Copos de avena extra suaves",
+  "marca": "H. & J. Brüggen KG",
+  "formato": "800 g",
+  "categoria": "Cereales",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "5010029229110",
+  "nombre": "Crispy Minis Choco",
+  "marca": "Weetabix Limited",
+  "formato": "500g",
+  "categoria": "Cereales",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3229820116716",
+  "nombre": "Muesli con frutas",
+  "marca": "Bjorg",
+  "formato": "750 g",
+  "categoria": "Cereales",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3168930010890",
+  "nombre": "Cruesli chocolat au lait",
+  "marca": "PEPSICO FRANCE",
+  "formato": "450 g",
+  "categoria": "Cereales",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3387390326574",
+  "nombre": "Céréales Cookie Crisp",
+  "marca": "Nestlé",
+  "formato": "375 g",
+  "categoria": "Cereales",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8402001010873",
+  "nombre": "Muesli Crunchy",
+  "marca": "MERCADONA",
+  "formato": "500gr",
+  "categoria": "Cereales",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3560071407650",
+  "nombre": "Muesli de quinoa y chocolate",
+  "marca": "CARREFOUR FRANCE",
+  "formato": "375 g",
+  "categoria": "Cereales",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3560070614202",
+  "nombre": "Copos de avena integral",
+  "marca": "CARREFOUR FRANCE",
+  "formato": "500 g",
+  "categoria": "Cereales",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3421557910203",
+  "nombre": "Flocons d'avoine complets",
+  "marca": "Terres & Céréales",
+  "formato": "500 g",
+  "categoria": "Cereales",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000095367",
+  "nombre": "Muesli con quinoa, chía y chocolate negro",
+  "marca": "MERCADONA",
+  "formato": "400 g",
+  "categoria": "Cereales",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3159470005071",
+  "nombre": "Cereales con chips de chocolate con avellanas",
+  "marca": "Kellogg's",
+  "formato": "500 g",
+  "categoria": "Cereales",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000156112",
+  "nombre": "Avena crunchy",
+  "marca": "MERCADONA",
+  "formato": "400 g",
+  "categoria": "Cereales",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3159470001424",
+  "nombre": "Céréales All Bran Kellogg's Fibre Plus",
+  "marca": "KELLOGG S PRODUITS ALIMENT SAS",
+  "formato": "500 g",
+  "categoria": "Cereales",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000229663",
+  "nombre": "Corn flakes 0% azúcares añadidos",
+  "marca": "MERCADONA",
+  "formato": "500 g",
+  "categoria": "Cereales",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3560071407773",
+  "nombre": "Crujiente Semillas de calabaza y de girasol",
+  "marca": "Carrefour BIO",
+  "formato": "375 g",
+  "categoria": "Cereales",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410188012092",
+  "nombre": "Corn Flakes",
+  "marca": "KELLOGG ESPAÑA S.L.",
+  "formato": "500 g",
+  "categoria": "Cereales",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000094742",
+  "nombre": "Granola baja en azúcares",
+  "marca": "MERCADONA",
+  "formato": "400 g",
+  "categoria": "Cereales",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "5010029000801",
+  "nombre": "Original",
+  "marca": "Weetabix Limited",
+  "formato": "860 g",
+  "categoria": "Cereales",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3560071407568",
+  "nombre": "Muesli 35% frutas",
+  "marca": "CARREFOUR FRANCE",
+  "formato": "500 g",
+  "categoria": "Cereales",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "7622210449283",
+  "nombre": "Príncipe Galletas de Chocolate",
+  "marca": "Mondelez Schweiz GmbH",
+  "formato": "300 g e",
+  "categoria": "Galletas",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410376009392",
+  "nombre": "Galletas fibra zero azúcares",
+  "marca": "GALLETAS GULLON S.A.",
+  "formato": "170 g",
+  "categoria": "Galletas",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8000500310427",
+  "nombre": "Nutella Biscuits",
+  "marca": "Ferrero Technical Services Srl",
+  "formato": "304 g",
+  "categoria": "Galletas",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8076809573252",
+  "nombre": "Baiocchi",
+  "marca": "Barilla G. e R. Fratelli SpA",
+  "formato": "260 g",
+  "categoria": "Galletas",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "7622210204424",
+  "nombre": "Príncipe crema de chocolate",
+  "marca": "Mondelez Schweiz GmbH",
+  "formato": "300 g",
+  "categoria": "Galletas",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "5410041010800",
+  "nombre": "Petit écolier",
+  "marca": "LU",
+  "formato": "150 g",
+  "categoria": "Galletas",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410376037784",
+  "nombre": "Sandwich Zero Sin Azúcares",
+  "marca": "GALLETAS GULLON S.A.",
+  "formato": "250 g",
+  "categoria": "Galletas",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410376026962",
+  "nombre": "Digestive Avena Choco",
+  "marca": "GALLETAS GULLON S.A.",
+  "formato": "425 g",
+  "categoria": "Galletas",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "7622210100917",
+  "nombre": "Choco pause",
+  "marca": "Mondelez Schweiz GmbH",
+  "formato": "260 g",
+  "categoria": "Galletas",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8434165466333",
+  "nombre": "Krit krititas galletas saladas",
+  "marca": "Cuétara",
+  "formato": "350g",
+  "categoria": "Galletas",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000142139",
+  "nombre": "Digestive Avena",
+  "marca": "MERCADONA",
+  "formato": "425 g",
+  "categoria": "Galletas",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410376059373",
+  "nombre": "Barquillos de choco",
+  "marca": "GALLETAS GULLON S.A.",
+  "formato": "60g",
+  "categoria": "Galletas",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410376047578",
+  "nombre": "Digestive Avena Naranja",
+  "marca": "GALLETAS GULLON S.A.",
+  "formato": "425 g",
+  "categoria": "Galletas",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410376033267",
+  "nombre": "Digestive Avena",
+  "marca": "GALLETAS GULLON S.A.",
+  "formato": "410 g",
+  "categoria": "Galletas",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000142429",
+  "nombre": "Trigo espelta 0% azucares",
+  "marca": "MERCADONA",
+  "formato": "200 g",
+  "categoria": "Galletas",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410376009408",
+  "nombre": "Doradas al horno zero sin azúcares",
+  "marca": "GALLETAS GULLON S.A.",
+  "formato": "330 g (2 x 165 g)",
+  "categoria": "Galletas",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3560071455279",
+  "nombre": "Galletas avena chocolate",
+  "marca": "CARREFOUR FRANCE",
+  "formato": "130 g (3 x 43,3 g)",
+  "categoria": "Galletas",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3175681060586",
+  "nombre": "Chocolate intenso",
+  "marca": "Céréal Bio",
+  "formato": "132g",
+  "categoria": "Galletas",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3270190127871",
+  "nombre": "Bio cookies de chocolate y avellanas",
+  "marca": "Carrefour BIO",
+  "formato": "200 g",
+  "categoria": "Galletas",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3560070439881",
+  "nombre": "Galleta de mantequilla",
+  "marca": "Carrefour",
+  "formato": "167 g",
+  "categoria": "Galletas",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410376026979",
+  "nombre": "Digestive Muesli",
+  "marca": "GALLETAS GULLON S.A.",
+  "formato": "365 g",
+  "categoria": "Galletas",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3017760038331",
+  "nombre": "Lulu, la barquette chocolat",
+  "marca": "LU",
+  "formato": "120 g",
+  "categoria": "Galletas",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "5410126006049",
+  "nombre": "The Original Speculoos",
+  "marca": "Biscoff",
+  "formato": "125 g",
+  "categoria": "Galletas",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410376017113",
+  "nombre": "Mega Duo",
+  "marca": "GALLETAS GULLON S.A.",
+  "formato": "500g",
+  "categoria": "Galletas",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3270190128519",
+  "nombre": "Galleta con mantequilla Tableta chocolate negro",
+  "marca": "Carrefour BIO",
+  "formato": "150 g",
+  "categoria": "Galletas",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410376002201",
+  "nombre": "Galleta ligera sin sal y sin azúcares",
+  "marca": "GALLETAS GULLON S.A.",
+  "formato": "80 g",
+  "categoria": "Galletas",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410376042498",
+  "nombre": "Galletas Desayuno Zero Sin Azúcares",
+  "marca": "Gullón",
+  "formato": "216 g",
+  "categoria": "Galletas",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410376037883",
+  "nombre": "Galletas Chip Choco Sin Gluten Sin Azúcares Añadidos",
+  "marca": "Galletas Gullon",
+  "formato": "125 g",
+  "categoria": "Galletas",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3560071231019",
+  "nombre": "Galletas bretonas",
+  "marca": "Carrefour",
+  "formato": "125 g",
+  "categoria": "Galletas",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "5000396021202",
+  "nombre": "Original Ritz Crackers",
+  "marca": "Pladis (UK) Limited",
+  "formato": "200g",
+  "categoria": "Galletas",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3033710075225",
+  "nombre": "Cafe",
+  "marca": "Nescafé",
+  "formato": "200g",
+  "categoria": "Café",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "4056489224525",
+  "nombre": "lösl. Kaffee",
+  "marca": "Bellarom",
+  "formato": "200g",
+  "categoria": "Café",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410100020549",
+  "nombre": "Nescafé classic natural",
+  "marca": "Nestlé",
+  "formato": "200 g",
+  "categoria": "Café",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "7613033174667",
+  "nombre": "Café con Leche",
+  "marca": "Dolce Gusto",
+  "formato": "160 g",
+  "categoria": "Café",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000221636",
+  "nombre": "Classic Café Soluble",
+  "marca": "Hacendado",
+  "formato": "200 g",
+  "categoria": "Café",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "7613036569927",
+  "nombre": "Eko natural",
+  "marca": "Nestlé",
+  "formato": "150 g",
+  "categoria": "Café",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410100021546",
+  "nombre": "Nescafé classic descafeinado",
+  "marca": "Nestlé",
+  "formato": "200 g",
+  "categoria": "Café",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000111876",
+  "nombre": "Cereales con achicoria",
+  "marca": "Hacendado",
+  "formato": "150 g",
+  "categoria": "Café",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410100020556",
+  "nombre": "Nescafé Classic Natural",
+  "marca": "Nestlé",
+  "formato": "100 g",
+  "categoria": "Café",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000805041",
+  "nombre": "Café",
+  "marca": "Hacendado",
+  "formato": "1 l",
+  "categoria": "Café",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8000070038868",
+  "nombre": "Crema e gusto classico",
+  "marca": "LavAzza",
+  "formato": "250 g",
+  "categoria": "Café",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "7613033162220",
+  "nombre": "Dolce Gusto Nesquik",
+  "marca": "Nescafé",
+  "formato": "256 g",
+  "categoria": "Café",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410100021553",
+  "nombre": "Nescafé classic descafeinado",
+  "marca": "Nestlé",
+  "formato": "100 g",
+  "categoria": "Café",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "7613034365774",
+  "nombre": "Nescafe Dolce Gusto/Café con Leche",
+  "marca": "NESTLÉ NORGE AS",
+  "formato": "300 g",
+  "categoria": "Café",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3560071012120",
+  "nombre": "Cappuccino",
+  "marca": "Carrefour",
+  "formato": "306 g",
+  "categoria": "Café",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8003753900490",
+  "nombre": "Decaffeinato",
+  "marca": "Illy",
+  "formato": "250 g",
+  "categoria": "Café",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3270190168515",
+  "nombre": "ACHICORIA CAFÉ Soluble",
+  "marca": "Carrefour",
+  "formato": "100 g",
+  "categoria": "Café",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410091170049",
+  "nombre": "Gran aroma natural",
+  "marca": "Marcilla",
+  "formato": "250 g",
+  "categoria": "Café",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000676603",
+  "nombre": "Capuchino caramel",
+  "marca": "Hacendado",
+  "formato": "250",
+  "categoria": "Café",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000111234",
+  "nombre": "Espresso Creme",
+  "marca": "Hacendado",
+  "formato": "80 g",
+  "categoria": "Café",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000234063",
+  "nombre": "Capuccino",
+  "marca": "Hacendado",
+  "formato": "250 g",
+  "categoria": "Café",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8711000390214",
+  "nombre": "Ristretto 11",
+  "marca": "L'or",
+  "formato": "40 capsules/ 208 g",
+  "categoria": "Café",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "7613035591066",
+  "nombre": "Eko Magnesio",
+  "marca": "Nestlé",
+  "formato": "150 g",
+  "categoria": "Café",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "5011546498423",
+  "nombre": "Capsules Dolce Gusto lungo 16 Capsules",
+  "marca": "Nescafé",
+  "formato": "112 g",
+  "categoria": "Café",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "7613036600996",
+  "nombre": "Espresso intense aroma",
+  "marca": "Nescafé",
+  "formato": "100g",
+  "categoria": "Café",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000227188",
+  "nombre": "Classic café soluble",
+  "marca": "Hacendado",
+  "formato": "100 g",
+  "categoria": "Café",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410100024202",
+  "nombre": "Bonka natural",
+  "marca": "Nestlé",
+  "formato": "250 g",
+  "categoria": "Café",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "4005500005827",
+  "nombre": "Nescafé Classic",
+  "marca": "Nescafé",
+  "formato": "200 g",
+  "categoria": "Café",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410091180048",
+  "nombre": "Gran aroma mezcla",
+  "marca": "Marcilla",
+  "formato": "250 g",
+  "categoria": "Café",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3270190159179",
+  "nombre": "Café con leche Achicoria",
+  "marca": "Carrefour",
+  "formato": "400 g",
+  "categoria": "Café",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000260291",
+  "nombre": "Garbanzo cocido",
+  "marca": "Hacendado",
+  "formato": "Le meten el E-385 es altamente tóxico, en Australia está pro",
+  "categoria": "Legumbres",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "4056489408468",
+  "nombre": "Garbanzos categoría extra",
+  "marca": "Campo Largo",
+  "formato": "540 g neto, 400 g escurrido",
+  "categoria": "Legumbres",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000260390",
+  "nombre": "Garbanzos",
+  "marca": "Hacendado",
+  "formato": "295g",
+  "categoria": "Legumbres",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410505272017",
+  "nombre": "Garbanzos",
+  "marca": "Luengo",
+  "formato": "570 g",
+  "categoria": "Legumbres",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000261106",
+  "nombre": "Garbanzos a la jardinera",
+  "marca": "Hacendado",
+  "formato": "420 g neto, 425 ml",
+  "categoria": "Legumbres",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410313325813",
+  "nombre": "Garbanzos extra",
+  "marca": "Cidacos",
+  "formato": "570 g (400 g net égoutté), 580 ml",
+  "categoria": "Legumbres",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000260338",
+  "nombre": "Garbanzos pedrosillanos",
+  "marca": "Hacendado",
+  "formato": "570 g",
+  "categoria": "Legumbres",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "5032722301313",
+  "nombre": "Organic chickpeas in water",
+  "marca": "Biona",
+  "formato": "400 g",
+  "categoria": "Legumbres",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000052148",
+  "nombre": "Garbanzos",
+  "marca": "Hacendado",
+  "formato": "1 kg",
+  "categoria": "Legumbres",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480017012326",
+  "nombre": "Garbanzos cocidos extra",
+  "marca": "Vegecampo",
+  "formato": "540 g neto, 400 g escurrido, 580 ml",
+  "categoria": "Legumbres",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "4056489408499",
+  "nombre": "Bio Garbanzos",
+  "marca": "campo largo",
+  "formato": "700 g",
+  "categoria": "Legumbres",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000052162",
+  "nombre": "Garbanzo lechoso",
+  "marca": "Hacendado",
+  "formato": "1 kg",
+  "categoria": "Legumbres",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8431876115871",
+  "nombre": "Garbanzos b/sal",
+  "marca": "Carrefour",
+  "formato": "570 g neto, 400 g escurrido, 580 ml",
+  "categoria": "Legumbres",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8413239060035",
+  "nombre": "Garbanzos al natural",
+  "marca": "El Navarrico",
+  "formato": "700gr",
+  "categoria": "Legumbres",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8431876278262",
+  "nombre": "Garbanzo cocido",
+  "marca": "Carrefour",
+  "formato": "570 g",
+  "categoria": "Legumbres",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8431876112771",
+  "nombre": "Garbanzos cocidos",
+  "marca": "Carrefour",
+  "formato": "570 g neto, 400 g escurrido, 580 ml",
+  "categoria": "Legumbres",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8414807502308",
+  "nombre": "Garbanzos",
+  "marca": "Consum",
+  "formato": "300 g",
+  "categoria": "Legumbres",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480010021967",
+  "nombre": "Garbanzos Eroski Basic",
+  "marca": "Eroski",
+  "formato": "570 g",
+  "categoria": "Legumbres",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410505272024",
+  "nombre": "Garbanzos",
+  "marca": "Luengo",
+  "formato": "300g",
+  "categoria": "Legumbres",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8414807502292",
+  "nombre": "Garbanzos",
+  "marca": "Consum",
+  "formato": "570g",
+  "categoria": "Legumbres",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000260208",
+  "nombre": "Garbanzo Lechoso Andaluz",
+  "marca": "Hacendado",
+  "formato": "570g  400g escurrido",
+  "categoria": "Legumbres",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8431876112801",
+  "nombre": "Comb.legumb.garb.",
+  "marca": "Carrefour",
+  "formato": "70 g",
+  "categoria": "Legumbres",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8431876233087",
+  "nombre": "Garbanzo extra",
+  "marca": "Carrefour",
+  "formato": "1 kg",
+  "categoria": "Legumbres",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000052209",
+  "nombre": "Garbanzo lechoso andaluz",
+  "marca": "Hacendado",
+  "formato": "1 kg",
+  "categoria": "Legumbres",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480012005941",
+  "nombre": "Garbanzos cocidos",
+  "marca": "eliges",
+  "formato": "570 gramos",
+  "categoria": "Legumbres",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480017174628",
+  "nombre": "Garbanzos bajo contenido de sal",
+  "marca": "dia",
+  "formato": "540 g",
+  "categoria": "Legumbres",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8426765498043",
+  "nombre": "Cigrons cuits extra",
+  "marca": "Condis",
+  "formato": "400g",
+  "categoria": "Legumbres",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8422410177851",
+  "nombre": "Garbanzos cocidos",
+  "marca": "Bonpreu",
+  "formato": "400g",
+  "categoria": "Legumbres",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8422410616336",
+  "nombre": "Garbanzos, en Conserva",
+  "marca": "Bonpreu",
+  "formato": "570 g",
+  "categoria": "Legumbres",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8412151703723",
+  "nombre": "Garbanzos cocidos extra al natural",
+  "marca": "JA'E",
+  "formato": "390 g",
+  "categoria": "Legumbres",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8715700407760",
+  "nombre": "Ketchup ecológico",
+  "marca": "Heinz",
+  "formato": "580 g",
+  "categoria": "Tomate frito",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8076809513722",
+  "nombre": "Basilico",
+  "marca": "Barilla",
+  "formato": "400 g",
+  "categoria": "Tomate frito",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000171320",
+  "nombre": "Tomate frito",
+  "marca": "Hacendado",
+  "formato": "400 g",
+  "categoria": "Tomate frito",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000235794",
+  "nombre": "Ketchup",
+  "marca": "Hacendado",
+  "formato": "600 g",
+  "categoria": "Tomate frito",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8076809513388",
+  "nombre": "Arrabbiata",
+  "marca": "Barilla",
+  "formato": "400 g",
+  "categoria": "Tomate frito",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000171634",
+  "nombre": "Tomate frito receta artesana con aceite de oliva",
+  "marca": "Hacendado",
+  "formato": "560g",
+  "categoria": "Tomate frito",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8076809513692",
+  "nombre": "Napoletana",
+  "marca": "Barilla",
+  "formato": "400g",
+  "categoria": "Tomate frito",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "4056489470847",
+  "nombre": "Ketchup bete",
+  "marca": "Kania",
+  "formato": "500 ml, 560 g",
+  "categoria": "Tomate frito",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000171511",
+  "nombre": "Tomate frito",
+  "marca": "Hacendado",
+  "formato": "210g",
+  "categoria": "Tomate frito",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8005110551215",
+  "nombre": "Pizza sauce aromatica",
+  "marca": "Oluf Lorentzen AS",
+  "formato": "400 g",
+  "categoria": "Tomate frito",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8402001007033",
+  "nombre": "Ketchup sin Azúcares Añadidos",
+  "marca": "Hacendado",
+  "formato": "600 g",
+  "categoria": "Tomate frito",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000171085",
+  "nombre": "Tomate frito",
+  "marca": "Hacendado",
+  "formato": "560g",
+  "categoria": "Tomate frito",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000171283",
+  "nombre": "Tomate frito con aceite de oliva",
+  "marca": "Hacendado",
+  "formato": "630g",
+  "categoria": "Tomate frito",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8410066000074",
+  "nombre": "Tomate frito",
+  "marca": "Orlando",
+  "formato": "350 g",
+  "categoria": "Tomate frito",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8005110630408",
+  "nombre": "Passata puré de tomate natural",
+  "marca": "Oluf lorentzen as",
+  "formato": "400 g",
+  "categoria": "Tomate frito",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000171313",
+  "nombre": "Tomate frito receta artesana",
+  "marca": "Hacendado",
+  "formato": "300 g",
+  "categoria": "Tomate frito",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8000320010095",
+  "nombre": "Purée de tomates",
+  "marca": "Cirio",
+  "formato": "700g",
+  "categoria": "Tomate frito",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000160447",
+  "nombre": "tomate triturado",
+  "marca": "Hacendado",
+  "formato": "400g escurridos",
+  "categoria": "Tomate frito",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "7613032921767",
+  "nombre": "Tomate frito",
+  "marca": "Solís",
+  "formato": "350 g",
+  "categoria": "Tomate frito",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000171535",
+  "nombre": "Tomate frito estilo casero con aceite de oliva",
+  "marca": "Hacendado",
+  "formato": "380 g",
+  "categoria": "Tomate frito",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8712566166480",
+  "nombre": "Ketchup envase 430 g",
+  "marca": "Hellmann's",
+  "formato": "486 g",
+  "categoria": "Tomate frito",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000168276",
+  "nombre": "Salsa Mexicana",
+  "marca": "Hacendado",
+  "formato": "300 g",
+  "categoria": "Tomate frito",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8715700423852",
+  "nombre": "Tomato ketchup 50% menos azúcar y sal",
+  "marca": "Heinz",
+  "formato": "500 ml / 550 g",
+  "categoria": "Tomate frito",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000173300",
+  "nombre": "Tomate frito sin azúcares añadidos",
+  "marca": "Hacendado",
+  "formato": "560 g",
+  "categoria": "Tomate frito",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "0043647868039",
+  "nombre": "Tiptree tomato ketchup",
+  "marca": "Wilkin & Sons",
+  "formato": "310g",
+  "categoria": "Tomate frito",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8000320010088",
+  "nombre": "Pulpe de tomates",
+  "marca": "Cirio",
+  "formato": "680g",
+  "categoria": "Tomate frito",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8430543025611",
+  "nombre": "Tomate Rallado Fresco",
+  "marca": "Bonnysa",
+  "formato": "290 g",
+  "categoria": "Tomate frito",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "3560070918126",
+  "nombre": "Salsa de tomate a la provenzal",
+  "marca": "Carrefour Bio",
+  "formato": "190 g",
+  "categoria": "Tomate frito",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8076809513739",
+  "nombre": "Basilico",
+  "marca": "Barilla norge",
+  "formato": "400 g",
+  "categoria": "Tomate frito",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "5010251564119",
+  "nombre": "Tomatoo Puree",
+  "marca": "Morrisons",
+  "formato": "200 g",
+  "categoria": "Tomate frito",
+  "controlDeLote": true,
+  "controlDeCaducidad": true
+ },
+ {
+  "ean": "8480000197153",
+  "nombre": "Sal fina",
+  "marca": "Hacendado",
+  "formato": "250 g",
+  "categoria": "Sal",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8480000197016",
+  "nombre": "Sal Himalaya",
+  "marca": "Hacendado",
+  "formato": "250 g",
+  "categoria": "Sal",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8480000197139",
+  "nombre": "Sal 60% menos de sodio",
+  "marca": "Hacendado",
+  "formato": "250 g",
+  "categoria": "Sal",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8411131010592",
+  "nombre": "Escamas de sal marina",
+  "marca": "Polasal",
+  "formato": "125g",
+  "categoria": "Sal",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "5010024111069",
+  "nombre": "SAXA SALT 750G",
+  "marca": "Saxa",
+  "formato": "750g",
+  "categoria": "Sal",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8480000290168",
+  "nombre": "Sal de frutas sabor limón",
+  "marca": "Hacendado",
+  "formato": "250g",
+  "categoria": "Sal",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8480000197313",
+  "nombre": "Sal fina",
+  "marca": "Hacendado",
+  "formato": "1 kg",
+  "categoria": "Sal",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "5011428300035",
+  "nombre": "Escamas de sal marina",
+  "marca": "Maldon",
+  "formato": "125g",
+  "categoria": "Sal",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8711596005080",
+  "nombre": "Sel marin aux légumes et herbes aromatiques biologiques",
+  "marca": "A.VOGEL",
+  "formato": "500 g",
+  "categoria": "Sal",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "3431590000021",
+  "nombre": "Sal marina del Atlántico",
+  "marca": "Danival",
+  "formato": "1kg",
+  "categoria": "Sal",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8480000197320",
+  "nombre": "Sal Yodada Fina",
+  "marca": "Hacendado",
+  "formato": "1kg  (16/09/22)",
+  "categoria": "Sal",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "7610313412259",
+  "nombre": "Sal marina con plantas aromáticas y hortalizas frescas",
+  "marca": "A.Vogel",
+  "formato": "250 g",
+  "categoria": "Sal",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8480000168641",
+  "nombre": "Sal de Mesa",
+  "marca": "Hacendado",
+  "formato": "300g",
+  "categoria": "Sal",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8480017095084",
+  "nombre": "Sal marina de mesa",
+  "marca": "Dia",
+  "formato": "250g",
+  "categoria": "Sal",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8412666645006",
+  "nombre": "Sal Saleros 200 GR.",
+  "marca": "La Barraca",
+  "formato": "200 g",
+  "categoria": "Sal",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "7790072001038",
+  "nombre": "sal",
+  "marca": "Celusal",
+  "formato": "500 gr",
+  "categoria": "Sal",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "3456300000948",
+  "nombre": "Sel de guerande",
+  "marca": "Lea Nature",
+  "formato": "150 g",
+  "categoria": "Sal",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8480017004192",
+  "nombre": "Sal de mesa fina",
+  "marca": "dia",
+  "formato": "1kg",
+  "categoria": "Sal",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8410604000474",
+  "nombre": "Sales Minerales del Mar",
+  "marca": "sal costa",
+  "formato": "900g",
+  "categoria": "Sal",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "3252378001388",
+  "nombre": "Bicarbonate de sodium alimentaire",
+  "marca": "Cerebos",
+  "formato": "500 g",
+  "categoria": "Sal",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8480000341303",
+  "nombre": "Sal de ajo",
+  "marca": "Hacendado",
+  "formato": "130g",
+  "categoria": "Sal",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "3431590000052",
+  "nombre": "Sel marin de l'Atlantique",
+  "marca": "Danival",
+  "formato": "1 kg",
+  "categoria": "Sal",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8413700190285",
+  "nombre": "Sal Marina con Hierbas",
+  "marca": "Carmencita",
+  "formato": "3 oz (85 g)",
+  "categoria": "Sal",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8410604102154",
+  "nombre": "Sal Marina tradicional",
+  "marca": "sal costa",
+  "formato": "750 g",
+  "categoria": "Sal",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8414266357556",
+  "nombre": "Sal Fina de mesa",
+  "marca": "Trinosal",
+  "formato": "750 g",
+  "categoria": "Sal",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8412206004157",
+  "nombre": "Sal Rosa del Himalaya",
+  "marca": "Toque",
+  "formato": "105 g",
+  "categoria": "Sal",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "4006040272663",
+  "nombre": "Sal de hierbas",
+  "marca": "Rapunzel",
+  "formato": "125 g",
+  "categoria": "Sal",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8480012017098",
+  "nombre": "Sal Fina De Mesa Salero",
+  "marca": "Eliges",
+  "formato": "250 g",
+  "categoria": "Sal",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8480000197399",
+  "nombre": "Sal de himalaya",
+  "marca": "Hacendado",
+  "formato": "110 g",
+  "categoria": "Sal",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8430337500232",
+  "nombre": "Sal Rosa del Himalaya",
+  "marca": "Perelada Gourmet",
+  "formato": "250 g",
+  "categoria": "Sal",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8480000198594",
+  "nombre": "Panela",
+  "marca": "Hacendado",
+  "formato": "500 g",
+  "categoria": "Azúcar",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8480000676375",
+  "nombre": "Eritritol y sucralosa",
+  "marca": "Hacendado",
+  "formato": "200 g",
+  "categoria": "Azúcar",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "3560071411824",
+  "nombre": "Azúcar de coco",
+  "marca": "Carrefour Bio",
+  "formato": "250 g",
+  "categoria": "Azúcar",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8410714102129",
+  "nombre": "Azúcar blanco",
+  "marca": "Azucarera",
+  "formato": "1 kg",
+  "categoria": "Azúcar",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "3560070339617",
+  "nombre": "Azúcar blanco en polvo",
+  "marca": "CARREFOUR DISCOUNT",
+  "formato": "1 kg",
+  "categoria": "Azúcar",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8410714107483",
+  "nombre": "Azúcar moreno de caña integral no refinado",
+  "marca": "Azucarera",
+  "formato": "800g",
+  "categoria": "Azúcar",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8410014477651",
+  "nombre": "O azucar",
+  "marca": "Nocilla",
+  "formato": "180 g",
+  "categoria": "Azúcar",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "3560071462864",
+  "nombre": "Azúcar moreno",
+  "marca": "Carrefour",
+  "formato": "750 g",
+  "categoria": "Azúcar",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8410714109340",
+  "nombre": "Panela",
+  "marca": "Azucarera",
+  "formato": "500 g",
+  "categoria": "Azúcar",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8480000198976",
+  "nombre": "Azúcar Blanco",
+  "marca": "Hacendado",
+  "formato": "1 kg",
+  "categoria": "Azúcar",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8410946000316",
+  "nombre": "Azúcar moreno de caña",
+  "marca": "Acor",
+  "formato": "1 kg",
+  "categoria": "Azúcar",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8437007611618",
+  "nombre": "Azúcar de caña integral",
+  "marca": "Tierra Madre",
+  "formato": "500g",
+  "categoria": "Azúcar",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8480000223494",
+  "nombre": "AZUCAR MORENO DE CAÑA",
+  "marca": "HACENDADO",
+  "formato": "1k",
+  "categoria": "Azúcar",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "3560070484768",
+  "nombre": "Azúcar moreno de caña integral en terrones",
+  "marca": "Simpl",
+  "formato": "1 kg",
+  "categoria": "Azúcar",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8410714109012",
+  "nombre": "Azúcar moreno de caña",
+  "marca": "Azucarera",
+  "formato": "300 g",
+  "categoria": "Azúcar",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "5601370003032",
+  "nombre": "Azucar moreno de caña integral",
+  "marca": "sidul",
+  "formato": "1 kg",
+  "categoria": "Azúcar",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8410714107544",
+  "nombre": "Azúcar blanco bolsa 1,5 kg",
+  "marca": "Azucarera",
+  "formato": "1.5 kg",
+  "categoria": "Azúcar",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8410946000149",
+  "nombre": "Azúcar blanco",
+  "marca": "Acor",
+  "formato": "350 g",
+  "categoria": "Azúcar",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8410714110919",
+  "nombre": "Azúcar moreno de caña",
+  "marca": "Azucarera",
+  "formato": "1 kg",
+  "categoria": "Azúcar",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8437014885200",
+  "nombre": "azucar Moreno",
+  "marca": "sucrebó",
+  "formato": "1 kg",
+  "categoria": "Azúcar",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8410946000125",
+  "nombre": "Azúcar moreno",
+  "marca": "Acor",
+  "formato": "350 g",
+  "categoria": "Azúcar",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "5602711110327",
+  "nombre": "Azúcar",
+  "marca": "Hacendado",
+  "formato": "1 kg",
+  "categoria": "Azúcar",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8437002942441",
+  "nombre": "Panela",
+  "marca": "Gourmet Latino",
+  "formato": "454 g",
+  "categoria": "Azúcar",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8402001001765",
+  "nombre": "Azucar",
+  "marca": "Hacendado",
+  "formato": "1 kg",
+  "categoria": "Azúcar",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8410714110384",
+  "nombre": "Azúcar de coco",
+  "marca": "Azucarera",
+  "formato": "300 g",
+  "categoria": "Azúcar",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8437002943554",
+  "nombre": "Panela",
+  "marca": "Gourmet Latino",
+  "formato": "400 g",
+  "categoria": "Azúcar",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8410714109524",
+  "nombre": "Azúcar moreno de caña",
+  "marca": "Azucarera",
+  "formato": "126 terrones 500g",
+  "categoria": "Azúcar",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8437002943837",
+  "nombre": "Panela",
+  "marca": "Gourmet Latino",
+  "formato": "1 kg",
+  "categoria": "Azúcar",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8410714108992",
+  "nombre": "Azúcar moreno de caña",
+  "marca": "Azucarera",
+  "formato": "750 g",
+  "categoria": "Azúcar",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ },
+ {
+  "ean": "8480024731005",
+  "nombre": "Azúcar blanco",
+  "marca": "Alteza",
+  "formato": "1 kg",
+  "categoria": "Azúcar",
+  "controlDeLote": true,
+  "controlDeCaducidad": false
+ }
+]

@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+
 using Sga.Aplicacion.Abstracciones;
 using Sga.Aplicacion.Stock;
 using Sga.Dominio.Almacen;

@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
+
 using Sga.Dominio.Almacen;
 using Sga.Dominio.Catalogo;
 using Sga.Dominio.Codigos;
