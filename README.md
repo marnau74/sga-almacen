@@ -97,12 +97,12 @@ Para escanear con el móvil, imprime las etiquetas de ubicación desde *Ubicacio
 |---|---|
 | `tests/Sga.Arquitectura.Tests` | Los límites entre capas: el dominio no depende de EF ni de ASP.NET, cada módulo solo usa los de debajo y las entidades no tienen setters públicos |
 | `tests/Sga.Dominio.Tests` | Códigos GS1, libro de stock (con una prueba de propiedades), FEFO, ubicación sugerida, recorrido, tareas, recepción, pedido y conteo |
-| `tests/Sga.Integracion.Tests` | Contra PostgreSQL (Testcontainers): de la recepción a la expedición, reposición, faltas, cuarentena, vida útil y lotes bloqueados, conteo con ajuste y concurrencia (asignaciones, picking y tareas a la vez); al final de cada uno, el libro cuadra en SQL |
+| `tests/Sga.Integracion.Tests` | Contra PostgreSQL (Testcontainers): de la recepción a la expedición, reposición, faltas, cuarentena, vida útil y lotes bloqueados, conteo con ajuste y concurrencia (asignaciones, picking y tareas a la vez, las últimas líneas de una oleada y dos cambios sobre el mismo pedido); al final de cada uno, el libro cuadra en SQL |
 | `tests/Sga.Api.Tests` | La API entera: sesión, bloqueo de la cuenta, cookie, permisos de cada rol, conteo ciego, errores RFC 9457 y cabeceras de seguridad |
 | `web` (Vitest) | Lectura de etiquetas GS1 en el terminal |
 | `web/e2e` (Playwright) | Oficina en escritorio (panel, pedido → asignación → oleada, trazabilidad) y terminal en móvil (preparar escaneando, hueco equivocado, recibir con etiqueta GS1, conteo ciego), con axe en cada pantalla |
 
-En total: 54 de dominio, 8 de arquitectura, 12 de integración, 8 de la API, 8 del front y 12 de extremo a extremo.
+En total: 54 de dominio, 8 de arquitectura, 15 de integración, 8 de la API, 8 del front y 12 de extremo a extremo.
 La CI (`.github/workflows/ci.yml`) las pasa todas, además del formato, los paquetes con vulnerabilidades, que las
 migraciones estén al día y que la imagen Docker se construya.
 

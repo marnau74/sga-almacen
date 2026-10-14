@@ -44,6 +44,19 @@ public interface IContexto
     /// <summary>Carga y bloquea todas las existencias de unos artículos (para repartir stock entre pedidos).</summary>
     Task<IReadOnlyList<Existencia>> BloquearExistenciasDe(IEnumerable<Guid> articulos, CancellationToken ct);
 
+    /// <summary>
+    /// Bloquea las filas de unos pedidos hasta el final de la transacción, en orden. Se hace antes de leerlos: así dos
+    /// operaciones sobre el mismo pedido (dos operarios que terminan sus líneas, dos repartos) van una detrás de otra
+    /// y la segunda ve lo que ha hecho la primera. Siempre antes que las existencias, para no cruzarse.
+    /// </summary>
+    Task BloquearPedidos(IEnumerable<Guid> pedidos, CancellationToken ct);
+
+    /// <summary>
+    /// Bloquea la fila de una oleada hasta el final de la transacción, para decidir si ya está terminada viendo lo que
+    /// han confirmado los demás operarios.
+    /// </summary>
+    Task BloquearOleada(Guid oleada, CancellationToken ct);
+
     /// <summary>Artículos cuyo nombre o marca contienen el texto, sin distinguir mayúsculas.</summary>
     IQueryable<Articulo> ArticulosQueContienen(string texto);
 

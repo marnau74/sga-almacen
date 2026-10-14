@@ -51,6 +51,8 @@ public sealed class ServicioDeSalidas(IContexto contexto, Reparto reparto, Servi
     {
         var resultado = await contexto.EnTransaccion(async () =>
         {
+            // Dos repartos del mismo pedido a la vez: el segundo espera y ve lo que ya se ha asignado.
+            await contexto.BloquearPedidos(pedidoIds, ct);
             var pedidos = await contexto.Pedidos
                 .Where(p => pedidoIds.Contains(p.Id) &&
                             (p.Estado == EstadoDePedido.Pendiente || p.Estado == EstadoDePedido.AsignadoParcial))

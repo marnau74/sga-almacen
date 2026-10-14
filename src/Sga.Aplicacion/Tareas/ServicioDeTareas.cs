@@ -48,6 +48,13 @@ public sealed class ServicioDeTareas(IContexto contexto, ServicioDeStock stock, 
             {
                 ComprobarUbicacion(confirmacion.CodigoDeOrigen, origen, "origen");
             }
+            // Una tarea creada justo antes de abrir un conteo no puede mover nada de lo que se está contando. Al ubicar,
+            // el destino es el que se escanea y se comprueba después.
+            var destinoFijo = tarea.Tipo == TipoDeTarea.Ubicar ? tarea.OrigenId : tarea.DestinoId;
+            if (await contexto.Ubicaciones.AnyAsync(u => (u.Id == tarea.OrigenId || u.Id == destinoFijo) && u.Bloqueada, ct))
+            {
+                throw EnRecuento();
+            }
             if (confirmacion.Cantidad > 0)
             {
                 await ComprobarArticulo(tarea, confirmacion.CodigoDeArticulo, ct);
@@ -87,6 +94,10 @@ public sealed class ServicioDeTareas(IContexto contexto, ServicioDeStock stock, 
         {
             await ComprobarOtroHueco(tarea, destino, ct);
         }
+        else if (destino.Bloqueada)
+        {
+            throw EnRecuento();
+        }
         tarea.Terminar(usuario.Nombre, confirmacion.Cantidad, destino.Id, reloj.GetUtcNow());
         await stock.Mover(TipoDeMovimiento.Ubicacion, tarea.ArticuloId, tarea.Lote, tarea.Caducidad, tarea.OrigenId,
             destino.Id, tarea.Cantidad, tarea.Documento, ct);
@@ -114,6 +125,9 @@ public sealed class ServicioDeTareas(IContexto contexto, ServicioDeStock stock, 
 
     private async Task Coger(Tarea tarea, Ubicacion hueco, int cantidad, CancellationToken ct)
     {
+        // Dos operarios con líneas del mismo pedido van uno detrás de otro: así el último ve las demás terminadas y
+        // da el pedido por preparado.
+        await contexto.BloquearPedidos([tarea.PedidoId!.Value], ct);
         var reserva = await contexto.Reservas.SingleAsync(r => r.Id == tarea.ReservaId, ct);
         var pedido = await contexto.Pedidos.SingleAsync(p => p.Id == tarea.PedidoId, ct);
         tarea.Terminar(usuario.Nombre, cantidad, tarea.DestinoId, reloj.GetUtcNow());
@@ -142,6 +156,8 @@ public sealed class ServicioDeTareas(IContexto contexto, ServicioDeStock stock, 
         if (!quedan)
         {
             pedido.TerminarPreparacion();
+            // Lo mismo con la oleada, que reúne pedidos de varios operarios.
+            await contexto.BloquearOleada(tarea.OleadaId!.Value, ct);
             var oleadaAbierta = await contexto.Tareas.AnyAsync(t => t.OleadaId == tarea.OleadaId &&
                 (t.Estado == EstadoDeTarea.Pendiente || t.Estado == EstadoDeTarea.EnCurso), ct);
             if (!oleadaAbierta && await contexto.Oleadas.SingleOrDefaultAsync(o => o.Id == tarea.OleadaId, ct) is { } oleada)
@@ -179,6 +195,9 @@ public sealed class ServicioDeTareas(IContexto contexto, ServicioDeStock stock, 
             throw new ReglaIncumplida("lote-equivocado", $"Ese es el lote {lote}; la tarea es del lote {tarea.Lote}.");
         }
     }
+
+    private static ReglaIncumplida EnRecuento() => new("ubicacion-en-recuento",
+        "Se está contando una de las ubicaciones de esta tarea: espera a que termine el conteo.");
 
     private static void ComprobarUbicacion(string? codigo, Ubicacion esperada, string cual)
     {

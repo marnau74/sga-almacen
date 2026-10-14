@@ -106,6 +106,62 @@ public sealed class SgaContexto(DbContextOptions<SgaContexto> opciones)
             .ToListAsync(ct);
     }
 
+    public async Task BloquearPedidos(IEnumerable<Guid> pedidos, CancellationToken ct)
+    {
+        var lista = pedidos.Distinct().ToArray();
+        if (lista.Length > 0)
+        {
+            await Database.ExecuteSqlRawAsync(
+                "SELECT 1 FROM salidas.pedido WHERE id = ANY(@pedidos) ORDER BY id FOR UPDATE",
+                [new NpgsqlParameter("pedidos", lista)], ct);
+        }
+    }
+
+    public async Task BloquearOleada(Guid oleada, CancellationToken ct) =>
+        await Database.ExecuteSqlRawAsync("SELECT 1 FROM salidas.oleada WHERE id = @oleada FOR UPDATE",
+            [new NpgsqlParameter("oleada", oleada)], ct);
+
+    /// <summary>
+    /// Las líneas, los preparados y los bultos de un pedido (y lo que cuelga de la recepción y del conteo) están en sus
+    /// propias tablas: cambiarlos no toca la fila del dueño y su versión no se comprobaría. Se marca el dueño como
+    /// cambiado para que dos cambios a la vez sobre el mismo documento acaben en un conflicto y no en uno pisando al otro.
+    /// </summary>
+    public override Task<int> SaveChangesAsync(bool acceptAllChangesOnSuccess, CancellationToken cancellationToken = default)
+    {
+        foreach (var dueno in DuenosDeLoCambiado())
+        {
+            dueno.State = EntityState.Modified;
+        }
+        return base.SaveChangesAsync(acceptAllChangesOnSuccess, cancellationToken);
+    }
+
+    private List<Microsoft.EntityFrameworkCore.ChangeTracking.EntityEntry> DuenosDeLoCambiado()
+    {
+        var duenos = new List<Microsoft.EntityFrameworkCore.ChangeTracking.EntityEntry>();
+        var pendientes = new Queue<Microsoft.EntityFrameworkCore.ChangeTracking.EntityEntry>(ChangeTracker.Entries()
+            .Where(e => e.Metadata.IsOwned() && e.State is EntityState.Added or EntityState.Modified or EntityState.Deleted));
+        while (pendientes.TryDequeue(out var poseido))
+        {
+            var propiedad = poseido.Metadata.FindOwnership()!;
+            var clave = propiedad.Properties.Select(p => poseido.Property(p.Name).CurrentValue).ToArray();
+            var dueno = ChangeTracker.Entries().FirstOrDefault(e => e.Metadata == propiedad.PrincipalEntityType &&
+                propiedad.PrincipalKey.Properties.Select(p => e.Property(p.Name).CurrentValue).SequenceEqual(clave));
+            if (dueno is null || dueno.State != EntityState.Unchanged)
+            {
+                continue;
+            }
+            if (dueno.Metadata.IsOwned())
+            {
+                pendientes.Enqueue(dueno);
+            }
+            else if (dueno.Metadata.FindProperty("Version") is not null)
+            {
+                duenos.Add(dueno);
+            }
+        }
+        return duenos;
+    }
+
     public IQueryable<Articulo> ArticulosQueContienen(string texto)
     {
         // Lo que escribe el usuario es texto, no un patrón: % y _ se escapan.
