@@ -1,0 +1,87 @@
+@import "tailwindcss";
+@import "@fontsource/ibm-plex-sans/latin-400.css";
+@import "@fontsource/ibm-plex-sans/latin-500.css";
+@import "@fontsource/ibm-plex-sans/latin-600.css";
+@import "@fontsource/ibm-plex-mono/latin-400.css";
+@import "@fontsource/ibm-plex-mono/latin-600.css";
+
+/* Oficina: claro, denso, un solo acento. El color de un estado siempre va con su texto, nunca solo. */
+:root {
+  --fondo: #f6f7f9;
+  --superficie: #ffffff;
+  --texto: #14181f;
+  --suave: #5b6472;
+  --borde: #dfe3ea;
+  --acento: #1e5bd6;
+  --acento-texto: #ffffff;
+  --acento-suave: #e6eefc;
+  --bien: #146c34;
+  --bien-suave: #e4f4ea;
+  --aviso: #8f5100;
+  --aviso-suave: #fdf1df;
+  --mal: #c62828;
+  --mal-suave: #fdeaea;
+  color-scheme: light;
+}
+
+/* Terminal: alto contraste para naves con poca luz y pantallas al sol. */
+.terminal {
+  --fondo: #0f1217;
+  --superficie: #1a1f27;
+  --texto: #f3f5f8;
+  --suave: #a7b0bd;
+  --borde: #2f3743;
+  --acento: #6aa1ff;
+  --acento-texto: #0b0e13;
+  --acento-suave: #1d2c47;
+  --bien: #3fcf73;
+  --bien-suave: #12301e;
+  --aviso: #ffb547;
+  --aviso-suave: #3a2a10;
+  --mal: #ff6b6b;
+  --mal-suave: #3d1717;
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-fondo: var(--fondo);
+  --color-superficie: var(--superficie);
+  --color-texto: var(--texto);
+  --color-suave: var(--suave);
+  --color-borde: var(--borde);
+  --color-acento: var(--acento);
+  --color-acento-texto: var(--acento-texto);
+  --color-acento-suave: var(--acento-suave);
+  --color-bien: var(--bien);
+  --color-bien-suave: var(--bien-suave);
+  --color-aviso: var(--aviso);
+  --color-aviso-suave: var(--aviso-suave);
+  --color-mal: var(--mal);
+  --color-mal-suave: var(--mal-suave);
+  --font-sans: "IBM Plex Sans", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+}
+
+html,
+body {
+  background: var(--fondo);
+  color: var(--texto);
+  font-family: var(--font-sans);
+  -webkit-text-size-adjust: 100%;
+}
+
+/* Cifras alineadas en columnas. */
+.cifras {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Códigos que se escanean o se leen en voz alta: ubicaciones, lotes, EAN. */
+.codigo {
+  font-family: var(--font-mono);
+  letter-spacing: 0.02em;
+}
+
+:focus-visible {
+  outline: 2px solid var(--acento);
+  outline-offset: 2px;
+}
