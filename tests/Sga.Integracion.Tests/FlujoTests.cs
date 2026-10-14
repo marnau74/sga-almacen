@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+
 using Sga.Aplicacion.Consultas;
 using Sga.Aplicacion.Entradas;
 using Sga.Aplicacion.Salidas;

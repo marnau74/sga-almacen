@@ -1,0 +1,38 @@
+# Desarrollo: solo PostgreSQL (la API con `dotnet run` y el front con `npm run dev`).
+# Todo junto, construido como en producción: `docker compose --profile completo up --build`.
+name: sga-almacen
+
+services:
+  postgres:
+    image: postgres:17
+    environment:
+      POSTGRES_USER: sga
+      POSTGRES_PASSWORD: sga
+      POSTGRES_DB: sga
+    ports:
+      - "5440:5432"
+    volumes:
+      - datos:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U sga"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+
+  sga:
+    build: .
+    profiles: [completo]
+    depends_on:
+      postgres:
+        condition: service_healthy
+    ports:
+      - "8080:8080"
+    environment:
+      ConnectionStrings__Sga: Host=postgres;Database=sga;Username=sga;Password=sga
+      Almacen__Nombre: Almacén de demostración
+      # Solo para la demo local: usuarios de ejemplo con esta contraseña.
+      Demo__Activa: "true"
+      Demo__Contrasena: almacen-demo
+
+volumes:
+  datos:

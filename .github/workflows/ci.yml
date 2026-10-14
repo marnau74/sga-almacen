@@ -1,0 +1,99 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  api:
+    name: API (.NET)
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-dotnet@a98b56852c35b8e3190ac28c8c2271da59106c68 # v6.0.0
+        with:
+          global-json-file: global.json
+      - run: dotnet restore Sga.slnx
+      - name: Formato
+        run: dotnet format Sga.slnx --verify-no-changes --no-restore --exclude src/Sga.Infraestructura/Persistencia/Migraciones
+      - name: Compilar (los avisos son errores)
+        run: dotnet build Sga.slnx --no-restore -c Release
+      # Cada proyecto de pruebas por separado: dominio (unitarias y de propiedades), integración con PostgreSQL
+      # (Testcontainers; los runners de GitHub traen Docker) y la API entera (WebApplicationFactory).
+      - name: Pruebas
+        run: |
+          for proyecto in tests/*.Tests/; do
+            echo "::group::${proyecto}"
+            dotnet run --project "${proyecto}" --no-build -c Release || exit 1
+            echo "::endgroup::"
+          done
+      - name: Paquetes con vulnerabilidades conocidas (incluidos los transitivos)
+        run: |
+          dotnet list Sga.slnx package --vulnerable --include-transitive 2>&1 | tee vulnerabilidades.txt
+          if grep -qE '^\s+>' vulnerabilidades.txt; then
+            echo "Hay paquetes vulnerables" && exit 1
+          fi
+      - name: Migraciones al día con el modelo
+        run: |
+          dotnet tool restore
+          dotnet ef migrations has-pending-model-changes -p src/Sga.Infraestructura -s src/Sga.Infraestructura
+
+  web:
+    name: Front y extremo a extremo
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    services:
+      postgres:
+        image: postgres:17
+        env:
+          POSTGRES_USER: sga
+          POSTGRES_PASSWORD: sga
+          POSTGRES_DB: sga
+        ports:
+          - 5440:5432
+        options: >-
+          --health-cmd "pg_isready -U sga"
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 20
+    defaults:
+      run:
+        working-directory: web
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-dotnet@a98b56852c35b8e3190ac28c8c2271da59106c68 # v6.0.0
+        with:
+          global-json-file: global.json
+      - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - run: npm ci
+      - run: npm run lint
+      - run: npm test
+      - run: npx playwright install --with-deps chromium
+      - name: Extremo a extremo (oficina en escritorio, terminal en móvil, con axe)
+        run: npm run test:e2e
+      - uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+        if: failure()
+        with:
+          name: informe-playwright
+          path: web/playwright-report/
+          retention-days: 7
+
+  imagen:
+    name: Imagen Docker
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - run: docker build --tag sga-almacen .

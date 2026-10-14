@@ -1,4 +1,5 @@
 using FsCheck.Xunit;
+
 using Sga.Dominio.Almacen;
 using Sga.Dominio.Comun;
 using Sga.Dominio.Stock;
