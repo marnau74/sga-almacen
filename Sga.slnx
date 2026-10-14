@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Sga.Api/Sga.Api.csproj" />
+    <Project Path="src/Sga.Aplicacion/Sga.Aplicacion.csproj" />
+    <Project Path="src/Sga.Dominio/Sga.Dominio.csproj" />
+    <Project Path="src/Sga.Infraestructura/Sga.Infraestructura.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Sga.Dominio.Tests/Sga.Dominio.Tests.csproj" />
+    <Project Path="tests/Sga.Integracion.Tests/Sga.Integracion.Tests.csproj" />
+  </Folder>
+</Solution>
