@@ -23,6 +23,8 @@ Los artículos son reales: EAN, nombre, marca y formato de productos vendidos en
 así que sus códigos de barras se pueden escanear con productos de casa. El mapa del almacén, los proveedores, los
 clientes, el stock y los pedidos son **datos de demostración** generados al arrancar.
 
+> **In English.** Warehouse management system (WMS) for a food distribution warehouse: receiving, put-away, stock by location and lot with expiry dates (FEFO), order picking, packing with GS1 SSCC labels, shipping, cycle counts and full lot traceability. An office web app and a scanner terminal for operators where every step is confirmed by scanning. Built with .NET 10, EF Core and PostgreSQL on the back end and React 19 with TypeScript on the front end, tested with xUnit, property-based tests, Testcontainers and Playwright.
+
 ## Qué hace
 
 - **Entradas.** Recepciones previstas por proveedor; al descargar se escanea cada bulto (EAN suelto o etiqueta
